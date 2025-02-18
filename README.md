@@ -1,7 +1,6 @@
 <h2>Wellcome!</h2>
-
 <img src="resources/Boy.png" alt="Boy" width="500"> 
-<p>Welcome! </br> I'm Andrés, <b><i>Electronic, Robotic and Mechatronic Engineer</i></b> from <img src="resources/Spainflag.png" alt="Bandera de España" width="20"> <b>Seville, Spain</b>
+<p>I'm Andrés, <b><i>Electronic, Robotic and Mechatronic Engineer</i></b>  from <img src="resources/Spainflag.png" alt="Bandera de España" width="20"> Seville, Spain</p>
 
 <h3>Things I work with</h3>
 
@@ -18,3 +17,24 @@
 ![Machine learning](https://img.shields.io/badge/Machine_Learning-python-informational?style=flat&logo=python&color=3776AB)
 ![Solidworks](https://img.shields.io/badge/CAD_Design-Solidworks-informational?style=flat&logo=solid_Works&color=e81010)
 ![Solidworks](https://img.shields.io/badge/CAD_Design-Autocad-informational?style=flat&logo=Autocad&color=E51050)
+
+<h3>Open source projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+       </tr>
+  </thead>
+  <tbody>
+    <tr>
+     <tr>
+      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
+    </tr>
+  </tbody>
