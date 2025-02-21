@@ -18,7 +18,7 @@
 ![Solidworks](https://img.shields.io/badge/CAD_Design-Solidworks-informational?style=flat&logo=solid_Works&color=e81010)
 ![Solidworks](https://img.shields.io/badge/CAD_Design-Autocad-informational?style=flat&logo=Autocad&color=E51050)
 
-<h3>Open source projects</h3>
+<h3>📚 Open source projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -38,3 +38,4 @@
       <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
     </tr>
   </tbody>
+
