@@ -28,7 +28,7 @@
   <tbody>
     <tr>
      <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
+      <td><a href="https://github.com/Abathar/Bachelor-s-Thesis.git"><b>My Bachelor's Thesis (MH/High distinction)</b></a></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
