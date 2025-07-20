@@ -1,6 +1,11 @@
-<h2>Wellcome!</h2>
+Hi 👋 My name is Andrés Delgado
+===============================
 <img src="resources/Port.png" alt="Port" width="500"> 
-<p>I'm Andrés, <b><i>Electronic, Robotic and Mechatronic Engineer</i></b>  from <img src="resources/Spainflag.png" alt="Bandera de España" width="20"> Seville, Spain</p>
+
+Junior Electronics and Control Systems Engineer
+----------------------------------------
+
+<b><i>I'm a graduate of Electronics, Robotics, and Mechatronics Engineering, with expertise in electronic design and tailored solutions. I'm highly passionate about embedded systems and constantly driven to learn.</i></b>  Actually I Live in <img src="resources/Spainflag.png" alt="Bandera de España" width="20"> Seville, Spain</p>
 
 <h3>Things I work with</h3>
 
